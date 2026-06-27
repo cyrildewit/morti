@@ -1,0 +1,11 @@
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/bin/Debug/net10.0/Morti.Domain.deps.json
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/bin/Debug/net10.0/Morti.Domain.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/bin/Debug/net10.0/Morti.Domain.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/Morti.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/Morti.Domain.AssemblyInfoInputs.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/Morti.Domain.AssemblyInfo.cs
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/Morti.Domain.csproj.CoreCompileInputs.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/Morti.Domain.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/refint/Morti.Domain.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/Morti.Domain.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Domain/obj/Debug/net10.0/ref/Morti.Domain.dll

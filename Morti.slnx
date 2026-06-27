@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Morti.API/Morti.API.csproj" />
+    <Project Path="src/Morti.AppHost/Morti.AppHost.csproj" />
+    <Project Path="src/Morti.Application/Morti.Application.csproj" />
+    <Project Path="src/Morti.Domain/Morti.Domain.csproj" />
+    <Project Path="src/Morti.Infrastructure/Morti.Infrastructure.csproj" />
+    <Project Path="src/Morti.ServiceDefaults/Morti.ServiceDefaults.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,17 @@
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Infrastructure.deps.json
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Infrastructure.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Infrastructure.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Application.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Domain.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Application.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/bin/Debug/net10.0/Morti.Domain.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.csproj.AssemblyReference.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.AssemblyInfoInputs.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.AssemblyInfo.cs
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.In.F1C67FE1.Up2Date
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/refint/Morti.Infrastructure.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/Morti.Infrastructure.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.Infrastructure/obj/Debug/net10.0/ref/Morti.Infrastructure.dll

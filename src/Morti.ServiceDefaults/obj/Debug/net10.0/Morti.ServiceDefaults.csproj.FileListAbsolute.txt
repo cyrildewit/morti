@@ -1,0 +1,12 @@
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/bin/Debug/net10.0/Morti.ServiceDefaults.deps.json
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/bin/Debug/net10.0/Morti.ServiceDefaults.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/bin/Debug/net10.0/Morti.ServiceDefaults.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.AssemblyInfo.cs
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/refint/Morti.ServiceDefaults.dll
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/Morti.ServiceDefaults.pdb
+/Users/cyrildewit/Code/Personal/dotnet-grp-exploration/src/Morti.ServiceDefaults/obj/Debug/net10.0/ref/Morti.ServiceDefaults.dll
