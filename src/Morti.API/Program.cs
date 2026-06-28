@@ -1,7 +1,10 @@
+using Morti.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add Aspire service defaults (telemetry, health checks, service discovery, resilience).
 builder.AddServiceDefaults();
+
+builder.AddInfrastructure();
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
