@@ -21,3 +21,6 @@ aspire-output/
 
 # Rider
 .idea
+
+# Claude
+.claude
