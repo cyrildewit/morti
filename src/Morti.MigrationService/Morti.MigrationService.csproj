@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Morti.MigrationService</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Morti.Infrastructure\Morti.Infrastructure.csproj" />
+    <ProjectReference Include="..\Morti.ServiceDefaults\Morti.ServiceDefaults.csproj" />
+  </ItemGroup>
+
+</Project>
